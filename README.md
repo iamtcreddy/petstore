@@ -39,6 +39,6 @@ docker run  --name swaggerapi-petstore3 -d -p 8080:8080 swaggerapi/petstore3:uns
 ### Testing the server
 Once started, you can navigate to http://localhost:8080/api/v3/openapi.json to view the Swagger Resource Listing.
 This tells you that the server is up and ready to demonstrate Swagger.
-
+test
 ### Using the UI
 There is an HTML5-based API tool bundled in this sample--you can view it it at [http://localhost:8080](http://localhost:8080). This lets you inspect the API using an interactive UI.  You can access the source of this code from [here](https://github.com/swagger-api/swagger-ui)
